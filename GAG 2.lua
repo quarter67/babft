@@ -1,5 +1,5 @@
 --[[
-	Grow a Garden 2 — Auto Hub  [Reskin v2]
+	Grow a Garden 2 — Auto Hub  
 	Features: Auto Harvest (fast) | Auto Buy Seeds | Auto Buy Gears |
 	          Auto Sell | Auto Steal (Night) | Auto Collect Event Seeds
 	Toggle UI: INSERT key
